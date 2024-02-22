@@ -1,0 +1,4 @@
+preço=800
+parcelas=3
+resultado= preço/parcelas
+print("o valor de cada parcela é",resultado)
